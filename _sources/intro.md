@@ -9,5 +9,7 @@ Check out the content pages bundled with this sample book to see more.
 
 change for testing.
 
+another line testing for delete branch.
+
 ```{tableofcontents}
 ```
